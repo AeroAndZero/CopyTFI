@@ -3,7 +3,6 @@ import tkinter as tk
 import pyperclip
 from PIL import ImageGrab
 from PIL import Image
-import os
 
 pytesseract.pytesseract.tesseract_cmd = '.\\Tesseract-OCR\\tesseract.exe'
 
